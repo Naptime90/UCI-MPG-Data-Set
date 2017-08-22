@@ -1,4 +1,4 @@
-from DataGrab import Data_Grab
+from data_grab import Data_Grab
 import pygal
 
 rawData = Data_Grab()
